@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/difson/about/</loc>
+    <lastmod>2025-06-19T10:02:23+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/difson/project/</loc>
+    <lastmod>2025-06-19T10:02:23+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/difson/post/my-first-post/</loc>
+    <lastmod>2025-06-19T10:02:23+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/difson/</loc>
+    <lastmod>2025-06-19T10:02:23+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/difson/post/</loc>
+    <lastmod>2025-06-19T10:02:23+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/difson/contact/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/difson/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/difson/tags/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on My New Hugo Site</title>
+    <link>http://localhost:1313/difson/about/</link>
+    <description>Recent content in Abouts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jun 2025 10:02:23 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/difson/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/difson/about/about/</link>
+      <pubDate>Thu, 19 Jun 2025 10:02:23 +0900</pubDate>
+      <guid>http://localhost:1313/difson/about/about/</guid>
+      <description>&lt;h1 id=&#34;about-me-&#34;&gt;About Me 👋&lt;/h1&gt;&#xA;&lt;h2 id=&#34;-skills&#34;&gt;🔨 Skills:&lt;/h2&gt;&#xA;&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;&#xA;&#xA;&lt;div&gt;&#xA;  &#xA;    &#xA;    &lt;img src=&#34;https://skillicons.dev/icons?i=python&#34; alt=&#34;python&#34; /&gt;&#xA;  &#xA;    &#xA;    &lt;img src=&#34;https://skillicons.dev/icons?i=java&#34; alt=&#34;java&#34; /&gt;&#xA;  &#xA;    &#xA;    &lt;img src=&#34;https://skillicons.dev/icons?i=c&#34; alt=&#34;c&#34; /&gt;&#xA;  &#xA;    &#xA;    &lt;img src=&#34;https://skillicons.dev/icons?i=go&#34; alt=&#34;go&#34; /&gt;&#xA;  &#xA;    &#xA;    &lt;img src=&#34;https://skillicons.dev/icons?i=r&#34; alt=&#34;r&#34; /&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;&#xA;&#xA;&lt;div&gt;&#xA;  &#xA;    &#xA;    &lt;img src=&#34;https://skillicons.dev/icons?i=git&#34; alt=&#34;git&#34; /&gt;&#xA;  &#xA;    &#xA;    &lt;img src=&#34;https://skillicons.dev/icons?i=linux&#34; alt=&#34;linux&#34; /&gt;&#xA;  &#xA;    &#xA;    &lt;img src=&#34;https://skillicons.dev/icons?i=vscode&#34; alt=&#34;vscode&#34; /&gt;&#xA;  &#xA;    &#xA;    &lt;img src=&#34;https://skillicons.dev/icons?i=docker&#34; alt=&#34;docker&#34; /&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;h2 id=&#34;-more-about-me&#34;&gt;💫 More About Me:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📧 Ready to connect? Reach out to me &lt;a href=&#34;http://localhost:1313/difson/contact&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-my-absolute-favorites&#34;&gt;😄 My Absolute Favorites:&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

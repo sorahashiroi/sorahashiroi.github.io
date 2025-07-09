@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html
+  lang="en-us"
+  dir="ltr"
+>
+  <head><script src="/difson/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=difson/livereload" data-no-instant defer></script>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+<title>
+   | My New Hugo Site
+</title>
+
+<link rel="stylesheet" href="/difson/css/main.css" />
+
+
+    
+      <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['@@', '@@']],  
+      inlineMath: [['@', '@']]                  
+    }
+  };
+</script>
+
+
+    
+  </head>
+  <body>
+    <header>
+<nav class="navbar">
+  <a href="/">
+    
+    <p class="logo">Saral</p>
+  </a>
+<input type="checkbox" id="overlay-input" />
+<label for="overlay-input" id="overlay-button"><span></span></label>
+  <div id="overlay">
+    <ul>
+
+    <li>
+      <a href="/difson/">Home</a>
+    </li>
+
+    <li>
+      <a href="/difson/posts/">Posts</a>
+    </li>
+
+    <li>
+      <a class="active_menu" href="/difson/project/">Project</a>
+    </li>
+
+    <li>
+      <a href="/difson/about/">About</a>
+    </li>
+
+    <li>
+      <a href="/difson/journey/">Journey</a>
+    </li>
+
+    <li>
+      <a href="/difson/contact/">Contact</a>
+    </li>
+  
+      <li><button id="mode-toggle">☀️</button></li>
+    </ul>
+  </div>
+</nav>
+</header>
+
+    
+
+<main class="main-content">
+    
+<aside>
+  <h1>On This Page</h1>
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-open-source-contributions">🤝 Open Source Contributions</a></li>
+    <li><a href="#-personal-projects">💡 Personal Projects</a></li>
+  </ul>
+</nav>
+</aside>
+
+  <section class="project"><h2 id="-open-source-contributions">🤝 Open Source Contributions</h2>
+ 
+
+<h2 id="-personal-projects">💡 Personal Projects</h2>
+ 
+<div class="project-card">
+   
+  <div class="project-heading">
+    
+    <h2>Difson</h2>
+    
+  </div>
+  <div class="project-details">
+    <div class="description">
+      <p>A CLI tool to compare two JSON files and show their differences clearly. Built with Go, it provides colorized output and various comparison modes.</p>
+    </div>
+    <div class="project-links">
+      
+      
+      <a href="https://github.com/sorahashiroi/difson" target="_blank" rel="noopener noreferrer">Github</a>
+      
+        
+    </div>
+    <div class="features">
+      <h4>Features :</h4>
+      <ul>
+        
+        <li>JSON file comparison with colored diff output</li>
+        
+        <li>Multiple output formats (pretty, compact, raw)</li>
+        
+        <li>Cross-platform compatibility (Windows, macOS, Linux)</li>
+        
+        <li>Fast and efficient for large JSON files</li>
+        
+      </ul>
+    </div>
+    <div class="tech-stack">
+      <h4>Tech Stack :</h4>
+      
+      <img src="https://skillicons.dev/icons?i=go" alt="go" />
+      
+      <img src="https://skillicons.dev/icons?i=json" alt="json" />
+      
+      <img src="https://skillicons.dev/icons?i=cli" alt="cli" />
+      
+    </div>
+  </div>
+</div>
+
+<div class="project-card">
+   
+  <div class="project-heading">
+    
+    <h2>🚧pomodomu</h2>
+    
+  </div>
+  <div class="project-details">
+    <div class="description">
+      <p>pomodomu is a timer that manages work and break cycles based on the Pomodoro Technique.</p>
+    </div>
+    <div class="project-links">
+      
+      
+      <a href="https://github.com/sorahashiroi/pomodomu" target="_blank" rel="noopener noreferrer">Github</a>
+      
+        
+    </div>
+    <div class="features">
+      <h4>Features :</h4>
+      <ul>
+        
+        <li>Pomodoro Technique : Break work into 25-minute sessions, followed by short breaks.</li>
+        
+        <li>After four Pomodoros, enjoy a longer break to stay refreshed and avoid burnout.</li>
+        
+        <li>Efficiency: Just like the Dom mobile suit from Gundam, pomodomu helps you efficiently manage work and rest cycles.</li>
+        
+      </ul>
+    </div>
+    <div class="tech-stack">
+      <h4>Tech Stack :</h4>
+      
+      <img src="https://skillicons.dev/icons?i=go" alt="go" />
+      
+      <img src="https://skillicons.dev/icons?i=cli" alt="cli" />
+      
+    </div>
+  </div>
+</div>
+
+</section>
+  
+</main>
+
+
+    <footer><p>&copy; 2025 <a href="https://github.com/dipeshsingh25/saral-hugo-theme">Saral</a> Powered by <a href="https://gothugo.io">Hugo</a> & <a href="https://github.com/dipeshsingh25/saral-hugo-theme">Saral</a></p>
+
+<script src="/difson/js/main.js"></script>
+<script>
+  var prevScrollPos = window.pageYOffset;
+  var checkBox = document.getElementById("overlay-input");
+
+
+  window.onscroll = function () {
+    var currentScrollPos = window.pageYOffset;
+    var header = document.getElementsByTagName("header")[0];
+
+    if (prevScrollPos > currentScrollPos) {
+      header.style.display = "flex";
+    } else {
+      header.style.display = "none";
+      checkBox.checked = false;
+    }
+    prevScrollPos = currentScrollPos;
+  };
+</script>
+<script>
+  
+  document.querySelectorAll("pre > code").forEach((codeblock) => {
+    const container = codeblock.parentNode.parentNode;
+
+    const copybutton = document.createElement("button");
+    copybutton.classList.add("copy-code");
+    copybutton.innerText = 'copy';
+
+    function copyingDone() {
+      copybutton.innerText = 'copied!';
+      setTimeout(() => {
+        copybutton.innerText = 'copy';
+      }, 2000);
+    }
+
+    copybutton.addEventListener("click", (cb) => {
+      if ("clipboard" in navigator) {
+        navigator.clipboard.writeText(codeblock.textContent);
+        copyingDone();
+        return;
+      }
+
+      const range = document.createRange();
+      range.selectNodeContents(codeblock);
+      const selection = window.getSelection();
+      selection.removeAllRanges();
+      selection.addRange(range);
+      try {
+        document.execCommand("copy");
+        copyingDone();
+      } catch (e) {}
+      selection.removeRange(range);
+    });
+
+if (container.classList.contains("highlight")) {
+
+      container.appendChild(copybutton);
+    } else if (container.parentNode.firstChild == container) {
+      
+    } else if (
+      codeblock.parentNode.parentNode.parentNode.parentNode.parentNode
+        .nodeName == "TABLE"
+    ) {
+      
+      codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(
+        copybutton
+      );
+    } else {
+      
+      codeblock.parentNode.appendChild(copybutton);
+    }
+  });
+</script>
+
+</footer>
+  </body>
+</html>
